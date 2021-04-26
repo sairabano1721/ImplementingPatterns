@@ -4,9 +4,10 @@
 
 You need to design and implement:
 
-Bridge Pattern
-Observer Pattern
-Visitor Pattern
+1. Bridge Pattern
+2. Observer Pattern
+3. Visitor Pattern
+
 You can implement all patterns in the same implementation or separately. Implementing these patterns in your Facility Management System is a big plus.
 
 **Supporting documents**:
